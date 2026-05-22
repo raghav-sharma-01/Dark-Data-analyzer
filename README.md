@@ -1,2 +1,20 @@
-# Dark-Data-analyzer
-Dark Data Analyzer is an AI-powered enterprise intelligence platform designed to uncover hidden insights, anomalies, and business risks from unused organizational data (“dark data”).  The platform allows users to upload raw datasets such as CSV files, ERP exports, operational logs, and business reports, then automatically performs intelligent data.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/cdf073b5-9073-4cb4-9592-ca8ec0efbb27
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

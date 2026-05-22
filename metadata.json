@@ -1,0 +1,6 @@
+{
+  "name": "Dark Data Analyzer",
+  "description": "Enterprise intelligence platform using AI and ML to discover hidden insights and anomalies in raw datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
